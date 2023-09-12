@@ -8,3 +8,4 @@ def primtal(n):
 
 prim = [x for x in range(100) if primtal(x)]
 print(f"primtalen är: {prim}")
+#primtalen
