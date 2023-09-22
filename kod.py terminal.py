@@ -12,3 +12,4 @@ def text_till_rovarsp(text): #här defineras en funktion
 input_text = input(" lägg in text att översättas till rövarspråket :  ")
 text_resultat = text_till_rovarsp(input_text) #här kallar jag på funktionen
 print(" i rövarspråket blir : ", text_resultat)
+#
